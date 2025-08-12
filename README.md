@@ -4,8 +4,10 @@ This analysis was prepared for the 24-06-2025 PyDyTuesday challenge, to visualiz
 
 This time, all data wranglin and EDA was performed with 🐍 python 🐼 pandas, and shiny package was used to create an interactive dashboard. 
 
-🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 
+🧪 
 
-![screenshot of the active Shiny dashboard]([Screenshot 2025-08-12 at 17.13.42.png](https://github.com/monibencsik/python_shiny_pydymeasles/blob/main/Screenshot%202025-08-12%20at%2017.13.42.png))
+
+<img width="1470" height="920" alt="Screenshot of the active Shiny dashboard" src="https://github.com/user-attachments/assets/a7da7ec7-8957-49bc-9882-c2a2d90d4790" />
+
 
 
