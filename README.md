@@ -6,6 +6,6 @@ This time, all data wranglin and EDA was performed with 🐍 python 🐼 pandas,
 
 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 
 
-![screenshot of the active Shiny dashboard](Screenshot 2025-08-12 at 17.13.42.png)
+![screenshot of the active Shiny dashboard]([Screenshot 2025-08-12 at 17.13.42.png](https://github.com/monibencsik/python_shiny_pydymeasles/blob/main/Screenshot%202025-08-12%20at%2017.13.42.png))
 
 
