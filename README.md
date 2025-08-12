@@ -6,6 +6,6 @@ This time, all data wranglin and EDA was performed with 🐍 python 🐼 pandas,
 
 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 🧪 
 
-![screenshot of the active Shiny dashboard]()
+![screenshot of the active Shiny dashboard](Screenshot 2025-08-12 at 17.13.42.png)
 
 
